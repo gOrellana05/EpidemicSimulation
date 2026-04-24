@@ -1,0 +1,1 @@
+This project is an epidemic spread simulator implemented in Java, based on an agent-based model on a grid. It allows real-time visualization of how a disease spreads, evolves, and eventually disappears within an artificial population.
